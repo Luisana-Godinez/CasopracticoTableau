@@ -14,6 +14,14 @@ Se analiza cómo varía la satisfacción del empleado en función de su puntuaci
 
 ---
 
-# Conclusiones del análisis
+# Conclusiones del análisis 
+- Se identificó un mayor número de empleados del género femenino.
+- El departamento con el salario promedio más alto es el de Executive Office. 
+- El análisis de la relación entre desempeño laboral y satisfacción muestra que la mayoría de los empleados se encuentran en la categoría "Fully Meets", lo que indica una base sólida de rendimiento estable.
 
+---
 
+# Enlace al Dashboard en Tableau Public
+Puedes consultar el dashboard completo en el siguiente enlace: https://public.tableau.com/shared/7XFJPBZ48?:display_count=n&:origin=viz_share_link
+
+---
